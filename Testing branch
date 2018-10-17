@@ -1,2 +1,7 @@
 This is a test of how to use branches, what I can do with them and how they show up in Atom.
 I believe I am slowly turning this into a blog ;-)
+
+So now I have forked a branch (is that what you call it?) in my repo
+I have pulled it from GitHub into my Atom project.
+
+What I do not understand is: how can I work on the branch and push the changes just to the branch, not the master?
